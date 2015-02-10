@@ -374,7 +374,7 @@ html.mm-blocking #mm-blocker
 }
 .mm-is-menu li
 {
-	border-bottom:1px solid #1F253D;
+	border-bottom:4px solid #3E3EAF;
 }
 .mm-is-menu li,
 .mm-is-menu li > a,
