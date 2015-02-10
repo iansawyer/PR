@@ -38,6 +38,7 @@ body{
 	margin:15px 0;
 }
 
+
 .profile_picture {
 text-align: center;
 position: relative;
@@ -960,7 +961,7 @@ fieldset#body {
 .date_events{
 	margin-top:15px;
 	padding:0 0 2em 0;
-	background:#3E3EAF;
+	background:#8080E6;
 }
 .date_events h3 {
 	color: #FFF;
@@ -987,7 +988,9 @@ fieldset#body {
 .event_dates li{
 	font-size:10em;
 	color:#FFF;
+	
 }
+
 .button a{
 	display:inline-block;
 	background:#4D4DDB;
