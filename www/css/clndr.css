@@ -100,7 +100,7 @@
   	color: #FFF;
 }
 .cal1 .clndr .clndr-table tr .day.today.event {
-     background: #3E3EAF;
+     background: #8080E6;
 	 color: #FFF;
 	 border-radius: 2em;
 	-webkit-border-radius: 2em;
@@ -115,9 +115,17 @@
   font-size:1em;
   text-align:center;
   cursor:pointer;
-  background: #3E3EAF;
-  padding: 4px;
+ border-radius: 2em;
+-webkit-border-radius: 2em;
+-moz-border-radius: 2em;
+-o-border-radius: 2em;
+  padding: 9px;
   }
+  .cal1 .clndr .clndr-table tr .day .day-contents:hover {
+ 
+    background: #3E3EAF;
+
+    }
 }
 .cal1 .clndr .clndr-table tr .empty,
 .cal1 .clndr .clndr-table tr .adjacent-month {
